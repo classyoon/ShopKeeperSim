@@ -6,10 +6,7 @@
 //
 
 import Foundation
-class Customer {
-    var money : Int = 10
-    var possessions : [Good] = []
-}
+
 class Game {
     var player : Customer = Customer()
     
